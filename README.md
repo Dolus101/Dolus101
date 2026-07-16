@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  💫 About Me:
-🔭 I’m a web developer<br>👯 <br>🤝 I’m a Bug Bounty Hunter
+🔭 I’m a web developer<br>🤝 I’m a Bug Bounty Hunter
 
 
 ## 🌐 Socials:
